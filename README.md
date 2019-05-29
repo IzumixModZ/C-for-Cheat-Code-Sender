@@ -1,5 +1,15 @@
 # C-for-Cheat-Code-Sender, Easy C# Tool Creator
 
+Hi, Everyone.
+
+My name is Izumi
+
+I Created Easy create Tool Assistant
+
+Source is v1.0.0
+
+this Program is Free / Open Source
+
 # How to Use ?
 
 -1, Install Visual Studio.
