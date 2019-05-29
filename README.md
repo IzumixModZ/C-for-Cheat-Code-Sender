@@ -22,5 +22,6 @@ and v4.6.1 or 4.6.2
 
 -3, Open this Solution
 
+# Error is Please Contact Me
 
-Enjoy your Programing life!!
+# Discord : Izumi_2147483647#9849
